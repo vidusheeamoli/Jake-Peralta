@@ -4,4 +4,4 @@ I created this repository to get started. Shoutout to @rast-7 for baring with me
 
 Copying this from a very dear friend :D
 
-![](regularexpressions.jpg "Me after this project")
+![](images/regularexpressions.jpg "Me after this project")
